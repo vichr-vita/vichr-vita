@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @vichr-vita
-- 👀 I’m interested in all things data
-- 📫 Reach me via email: me@vichr.me
+Code knuckle-dragger
 
 <!---
 vichr-vita/vichr-vita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
