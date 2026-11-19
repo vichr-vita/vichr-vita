@@ -1,4 +1,4 @@
-SWE in Deutsche Boerse
+SWE @ Deutsche Boerse
 
 <!---
 vichr-vita/vichr-vita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
